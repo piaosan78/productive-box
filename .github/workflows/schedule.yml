@@ -1,4 +1,4 @@
-name: Update gist
+name: Daliy Commit
 on:
   push:
     branches:
